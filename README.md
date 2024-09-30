@@ -11,7 +11,7 @@ v1.0.0: 组件支持: redis。消息队列能力支持: 生产消费、延迟消
 ### 初始化
 ```go
 redisConfig := config.RedisConfig{
-        Dsn:         "redis://@127.0.0.1:6379/0",
+        Dsn:         "redis://:password@127.0.0.1:6379/0",
         MaxIdle:     20,
         MaxActive:   200,
         IdleTimeout: 100,
