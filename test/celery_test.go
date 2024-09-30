@@ -17,7 +17,7 @@ import (
 
 func init() {
 	redisConfig := config.RedisConfig{
-		Dsn:         "redis://@127.0.0.1:6379/0",
+		Dsn:         "redis://:password@127.0.0.1:6379/0",
 		MaxIdle:     20,
 		MaxActive:   200,
 		IdleTimeout: 100,
