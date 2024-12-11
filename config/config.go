@@ -1,6 +1,6 @@
 package config
 
-import celerywide "github.com/go-celery/celery-wite"
+import celerywide "github.com/apang3355/celery-wide"
 
 type Config struct {
 	Broker   BrokerLoadConfig

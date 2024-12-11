@@ -1,7 +1,7 @@
 package celerywide
 
 import (
-	"github.com/go-celery/celery-wite/enum"
+	"github.com/apang3355/celery-wide/enum"
 	"github.com/gocelery/gocelery"
 )
 

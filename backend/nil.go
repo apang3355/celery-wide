@@ -1,7 +1,7 @@
 package backend
 
 import (
-	"github.com/go-celery/celery-wite/config"
+	"github.com/apang3355/celery-wide/config"
 	"github.com/gocelery/gocelery"
 )
 

@@ -1,7 +1,7 @@
 package broker
 
 import (
-	"github.com/go-celery/celery-wite/config"
+	"github.com/apang3355/celery-wide/config"
 	"github.com/go-errors/errors"
 	"github.com/gocelery/gocelery"
 	"github.com/gomodule/redigo/redis"

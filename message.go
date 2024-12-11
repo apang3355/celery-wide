@@ -2,7 +2,7 @@ package celerywide
 
 import (
 	"errors"
-	"github.com/go-celery/celery-wite/enum"
+	"github.com/apang3355/celery-wide/enum"
 	jsoniter "github.com/json-iterator/go"
 	"strings"
 )

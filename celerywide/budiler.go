@@ -1,8 +1,8 @@
 package celerywide
 
 import (
-	celerywide "github.com/go-celery/celery-wite"
-	"github.com/go-celery/celery-wite/funcs"
+	celerywide "github.com/apang3355/celery-wide"
+	"github.com/apang3355/celery-wide/funcs"
 )
 
 type Builder struct {

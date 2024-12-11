@@ -2,9 +2,9 @@ package celerywide
 
 import (
 	"context"
-	"github.com/go-celery/celery-wite/enum"
-	"github.com/go-celery/celery-wite/factory"
-	"github.com/go-celery/celery-wite/funcs"
+	"github.com/apang3355/celery-wide/enum"
+	"github.com/apang3355/celery-wide/factory"
+	"github.com/apang3355/celery-wide/funcs"
 	"time"
 )
 

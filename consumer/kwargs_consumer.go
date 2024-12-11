@@ -1,9 +1,9 @@
 package consumer
 
 import (
-	celerywide "github.com/go-celery/celery-wite"
-	"github.com/go-celery/celery-wite/enum"
-	"github.com/go-celery/celery-wite/funcs"
+	celerywide "github.com/apang3355/celery-wide"
+	"github.com/apang3355/celery-wide/enum"
+	"github.com/apang3355/celery-wide/funcs"
 	"github.com/go-errors/errors"
 )
 

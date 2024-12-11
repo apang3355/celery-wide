@@ -2,7 +2,7 @@ package celerywide
 
 import (
 	"context"
-	"github.com/go-celery/celery-wite/funcs"
+	"github.com/apang3355/celery-wide/funcs"
 	jsoniter "github.com/json-iterator/go"
 	"time"
 )

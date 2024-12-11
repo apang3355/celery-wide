@@ -1,11 +1,11 @@
 package loader
 
 import (
-	celerywide "github.com/go-celery/celery-wite"
-	"github.com/go-celery/celery-wite/enum"
-	"github.com/go-celery/celery-wite/errs"
-	"github.com/go-celery/celery-wite/factory"
-	"github.com/go-celery/celery-wite/funcs"
+	celerywide "github.com/apang3355/celery-wide"
+	"github.com/apang3355/celery-wide/enum"
+	"github.com/apang3355/celery-wide/errs"
+	"github.com/apang3355/celery-wide/factory"
+	"github.com/apang3355/celery-wide/funcs"
 	"github.com/go-errors/errors"
 	"github.com/gocelery/gocelery"
 )

@@ -1,8 +1,8 @@
 package logger
 
 import (
-	celerywide "github.com/go-celery/celery-wite"
-	"github.com/go-celery/celery-wite/config"
+	celerywide "github.com/apang3355/celery-wide"
+	"github.com/apang3355/celery-wide/config"
 )
 
 type Logger struct {
