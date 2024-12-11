@@ -2,10 +2,9 @@ package broker
 
 import (
 	"fmt"
-	"github.com/go-celery/wide"
-	"github.com/go-celery/wide/config"
-	"github.com/go-celery/wide/enum"
-	"github.com/go-celery/wide/utils"
+	"github.com/go-celery/celery-wite/config"
+	"github.com/go-celery/celery-wite/enum"
+	"github.com/go-celery/celery-wite/utils"
 	"github.com/go-errors/errors"
 	"github.com/gocelery/gocelery"
 	"github.com/gomodule/redigo/redis"

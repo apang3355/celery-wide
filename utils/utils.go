@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/go-celery/wide/config"
+	"github.com/go-celery/celery-wite/config"
 	"github.com/gomodule/redigo/redis"
 	"time"
 )

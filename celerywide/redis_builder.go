@@ -1,9 +1,9 @@
 package celerywide
 
 import (
-	celerywide "github.com/go-celery/wide"
-	"github.com/go-celery/wide/config"
-	"github.com/go-celery/wide/funcs"
+	celerywide "github.com/go-celery/celery-wite"
+	"github.com/go-celery/celery-wite/config"
+	"github.com/go-celery/celery-wite/funcs"
 )
 
 type DefaultRedisConfig struct {

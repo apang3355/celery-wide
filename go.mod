@@ -1,4 +1,4 @@
-module github.com/go-celery/wide
+module github.com/go-celery/celery-wite
 
 go 1.22.7
 

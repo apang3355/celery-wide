@@ -2,9 +2,9 @@ package producer
 
 import (
 	"errors"
-	celerywide "github.com/go-celery/wide"
-	"github.com/go-celery/wide/enum"
-	"github.com/go-celery/wide/errs"
+	celerywide "github.com/go-celery/celery-wite"
+	"github.com/go-celery/celery-wite/enum"
+	"github.com/go-celery/celery-wite/errs"
 	"time"
 )
 

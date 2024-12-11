@@ -1,9 +1,9 @@
 package celerywide
 
 import (
-	"github.com/go-celery/wide/config"
-	"github.com/go-celery/wide/factory"
-	"github.com/go-celery/wide/loader"
+	"github.com/go-celery/celery-wite/config"
+	"github.com/go-celery/celery-wite/factory"
+	"github.com/go-celery/celery-wite/loader"
 )
 
 func Init(config config.Config) error {

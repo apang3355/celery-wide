@@ -1,8 +1,8 @@
 package backend
 
 import (
-	"github.com/go-celery/wide/config"
-	"github.com/go-celery/wide/utils"
+	"github.com/go-celery/celery-wite/config"
+	"github.com/go-celery/celery-wite/utils"
 	"github.com/gocelery/gocelery"
 )
 

@@ -1,8 +1,8 @@
 package celerywide
 
 import (
-	"github.com/go-celery/wide/enum"
-	"github.com/go-celery/wide/funcs"
+	"github.com/go-celery/celery-wite/enum"
+	"github.com/go-celery/celery-wite/funcs"
 	"github.com/gocelery/gocelery"
 	"time"
 )

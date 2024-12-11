@@ -1,8 +1,8 @@
 package retarder
 
 import (
-	celerywide "github.com/go-celery/wide"
-	"github.com/go-celery/wide/config"
+	celerywide "github.com/go-celery/celery-wite"
+	"github.com/go-celery/celery-wite/config"
 	"github.com/go-errors/errors"
 )
 

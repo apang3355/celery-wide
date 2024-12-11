@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/go-celery/wide"
-	"github.com/go-celery/wide/enum"
+	celerywide "github.com/go-celery/celery-wite"
+	"github.com/go-celery/celery-wite/enum"
 )
 
 type TimerRetarderLoadItem struct {
