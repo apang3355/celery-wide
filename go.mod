@@ -1,6 +1,6 @@
 module github.com/apang3355/celery-wide
 
-go 1.22.7
+go 1.22
 
 require (
 	git.kxsz.net/gopkg/utils v1.2.15
